@@ -1,0 +1,43 @@
+* {
+    /* outline: 1px dotted blue; */
+}
+
+.container {
+    margin-top: 30px;
+}
+
+input[type="submit"] {
+    display: block;
+    margin: 10px auto;
+}
+
+h2 {
+    padding: 10px 0px;
+}
+
+ul {
+    display: block;
+    width: 400px;
+    margin: 0px auto;
+}
+
+.navbar div {
+    padding: 10px 0px;
+    display: flex;
+    width: 250px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#message {
+    margin-left: 10px;
+}
+
+#comment {
+    margin-left: 30px;
+}
+
+#delete_button {
+    text-align: right;
+    margin-bottom: 10px;
+}
